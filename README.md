@@ -59,4 +59,4 @@ Sistem 3 ana katmandan oluşur:
 
 ### 2. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/prr_robot_project.git](https://github.com/KULLANICI_ADIN/prr_robot_project.git)
+git clone [https://github.com/csyar-TR/ros2_esp32_prr_manipulator.git]
