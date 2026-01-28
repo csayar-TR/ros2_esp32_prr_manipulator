@@ -1,0 +1,16 @@
+# ROS 2 build files
+build/
+install/
+log/
+*.pyc
+__pycache__/
+
+# Arduino temp files
+*.elf
+*.bin
+*.hex
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+*.swp
